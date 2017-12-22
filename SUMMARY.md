@@ -3,7 +3,7 @@
 1. [Introduction](README.md)
 1. [第一章](chapter01/README.md)
     1. [就读北京大学网络教育，学籍年限是多久，最快多久可以毕业](chapter01/section01.md)
-    1. [就读北京大学网络教育，学籍年限是多久，最快多久可以毕业](chapter01/section02.md)
+    1. [如何办理入学手续](chapter01/section02.md)
     1. [网络教育的学生，每学期初也要到校注册么](chapter01/section03.md)
     1. [如不能来报到注册缴费，可不可以请人代办？](chapter01/section04.md)
     1. [关于转专业应具备的条件是什么？是如何规定的？](chapter01/section05.md)
