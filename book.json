@@ -1,0 +1,19 @@
+{
+    "author": "技术保障办公室",
+    "description": "学历教育-常见问题问答",
+    "extension": null,
+    "generator": "site",   
+    "title": "学历教育-常见问题解答",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "北京大学继续教育学院": "http://www.sce.pku.edu.cn"
+        }
+    }
+}
